@@ -1,0 +1,1 @@
+Nothing too interesting, just some web service wrappers for JNDI / LDAP lookups.
